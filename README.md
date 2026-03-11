@@ -22,8 +22,8 @@ Este projeto foi desenvolvido utilizando a linguagem **Python** e um conjunto ro
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-repositorio>
-    cd <nome-do-repositorio>
+    git clone https://github.com/LeoSousaJesus/dados_queimadas2024
+    cd dados_queimadas2024
     ```
 
 2.  **Ambiente Virtual (Recomendado):**
@@ -40,4 +40,4 @@ Este projeto foi desenvolvido utilizando a linguagem **Python** e um conjunto ro
     ```
     Em seguida, abra o arquivo `queimadas.ipynb` no seu navegador.
 
-*Alternativamente, como o notebook original parece ter sido desenvolvido no Google Colab, você pode simplesmente fazer upload do arquivo `.ipynb` e do `.csv` para o seu Google Drive e abri-lo via **Google Colab**, que já possui a maioria dessas bibliotecas pré-instaladas.*
+*Alternativamente, como o notebook original foi desenvolvido no Google Colab, você pode simplesmente fazer upload do arquivo `.ipynb` e do `.csv` para o seu Google Drive e abri-lo via **Google Colab**, que já possui a maioria dessas bibliotecas pré-instaladas.*
